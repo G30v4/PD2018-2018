@@ -14,7 +14,11 @@
 - Contenedores: introducción
 - IoC: Inyección de Dependencias
 
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/00.%20IoC.pdf) 
+
 
 ### **2018-04-20**
 - Spring Framework: introducción
+
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/01.%20introduccion.pdf) 
 
