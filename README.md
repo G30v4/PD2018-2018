@@ -3,7 +3,6 @@
 *Bienvenidos al repositorio GIT de la materia de Programación Distribuida*
 
 ## Clases dictadas
----
 
 ### **2018-04-13**
 - Presentación de la materia
@@ -14,3 +13,8 @@
 ### **2018-04-17**
 - Contenedores: introducción
 - IoC: Inyección de Dependencias
+
+
+### **2018-04-20**
+- Spring Framework: introducción
+
