@@ -22,3 +22,8 @@
 
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/01.%20introduccion.pdf) 
 
+### **2018-04-24**
+- Spring Framework: Beans
+- Configuración contenedor: consola y web
+
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/02.%20Beans.pdf) 
