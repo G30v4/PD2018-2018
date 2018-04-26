@@ -2,6 +2,8 @@
 
 *Bienvenidos al repositorio GIT de la materia de Programación Distribuida*
 
+**[Syllabus de la Materia](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/905%20-%20PROGRAMACION%20DISTRIBUIDA%20-%20JAIME%20SALVADOR.pdf)**
+
 ## Clases dictadas
 
 ### **2018-04-13**
