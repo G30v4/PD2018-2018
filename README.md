@@ -37,11 +37,16 @@
 - ********** FERIADO
 
 ### **2018-05-08**
-- Práctica labratorio: RMI
+- Práctica labratorio: Contenedor Spring
+
+### **2018-05-08**
+- Práctica labratorio: Spring Remoting, RMI
 
 ### **2018-04-11**
 - Spring Remoting: Http/invoker, Hessian
+
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/03.%20Spring%20Remoting.pdf) 
+
 - Mensajería asincrónica: Introducción 
 
 
