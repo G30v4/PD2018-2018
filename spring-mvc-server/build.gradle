@@ -1,0 +1,22 @@
+ext {
+	springVersion = '5.0.5.RELEASE'
+}
+
+apply plugin: 'war'
+apply plugin: 'eclipse'
+apply plugin: 'eclipse-wtp'
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+	compile "org.springframework:spring-context:$springVersion"
+	compile "org.springframework:spring-web:$springVersion"
+	compile "org.springframework:spring-webmvc:$springVersion"
+	compile "javax.servlet:javax.servlet-api:3.1.0"
+
+	//compile group: 'org.springframework', name: 'spring-context', version: '5.0.5.RELEASE'
+}
+

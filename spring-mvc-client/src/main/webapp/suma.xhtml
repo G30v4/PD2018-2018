@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+<h:head>
+	<title>SUMA</title>
+</h:head>
+
+<body>
+
+	<h1>Suma de dos números</h1>
+
+	<h:form>
+		<h:panelGrid columns="2">
+			<h:outputText value="N1:"/>
+			<h:inputText value="#{sumarAction.n1}"/>
+			<h:outputText value="N2:"/>
+			<h:inputText value="#{sumarAction.n2}"/>
+		</h:panelGrid>
+		<br/>
+		<h:commandButton value="Sumar" action="#{sumarAction.sumar}"/>
+	</h:form>
+	
+	<br/>
+	La respuesta es: ${sumarAction.respuesta}
+
+</body>
+
+</html>
