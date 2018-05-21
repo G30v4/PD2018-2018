@@ -1,0 +1,20 @@
+ext {
+	springVersion = '5.0.5.RELEASE'	
+}
+
+tasks.withType(JavaCompile) {
+	options.encoding = "UTF-8"
+}
+
+apply plugin: 'java-library'
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+	compile "org.springframework:spring-context:$springVersion"
+}
+
+

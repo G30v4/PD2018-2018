@@ -1,0 +1,28 @@
+ext {
+	springVersion = '5.0.5.RELEASE'	
+}
+
+tasks.withType(JavaCompile) {
+	options.encoding = "UTF-8"
+}
+
+apply plugin: 'java-library'
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+//Copiar las dependencias al directorio /libs
+task copyDependencies(type: Copy) {
+	delete 'libs'
+	from configurations.compile
+	into 'libs'
+}
+
+dependencies {
+	compile "org.springframework:spring-context:$springVersion"
+}
+
+
+
