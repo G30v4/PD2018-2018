@@ -49,5 +49,16 @@
 
 - Mensajería asincrónica: Introducción 
 
+### **2018-04-15**
+- Revisión trabajo HTTP Invoker
+- Revisión Configuración web
+
+### **2018-04-18**
+- Mensajeria asincrónica
+
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/04.%20JMS.pdf) 
+
+- Servicios REST: Introducción 
+
 
 
