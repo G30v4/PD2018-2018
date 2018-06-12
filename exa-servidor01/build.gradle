@@ -1,0 +1,30 @@
+ext {
+	springVersion = '5.0.5.RELEASE'
+	derbyVersion = '10.13.1.1'
+	jmsVersion = '2.0'
+}
+
+apply plugin: 'war'
+apply plugin: 'eclipse'
+apply plugin: 'eclipse-wtp'
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+	compile "org.springframework:spring-context:$springVersion"
+	compile "org.springframework:spring-web:$springVersion"
+	compile "org.springframework:spring-webmvc:$springVersion"
+	compile "org.springframework:spring-jms:$springVersion"
+	compile "org.springframework:spring-jdbc:$springVersion"
+	
+	compile "javax.servlet:javax.servlet-api:3.1.0"
+	
+	compile "javax.jms:javax.jms-api:$jmsVersion"
+	compile "org.apache.activemq:artemis-jms-client:2.4.0"
+
+	compile "org.apache.derby:derby:$derbyVersion"
+}
+
