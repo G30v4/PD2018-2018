@@ -4,7 +4,7 @@
 
 **[Syllabus de la Materia](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/905%20-%20PROGRAMACION%20DISTRIBUIDA%20-%20JAIME%20SALVADOR.pdf)**
 
-## Clases dictadas
+## Clases dictadas Primer Hemisemestre
 
 ### **2018-04-13**
 - Presentación de la materia
@@ -71,6 +71,8 @@
 
 ### **2018-05-29, 2018-06-01**
 - ********** SEMANA DE EXAMENES
+
+## Clases dictadas Segundo Hemisemestre
 
 ### **2018-06-05**
 - Examen primer hemisemestre
