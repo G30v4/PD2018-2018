@@ -42,18 +42,18 @@
 ### **2018-05-08**
 - Práctica labratorio: Spring Remoting, RMI
 
-### **2018-04-11**
+### **2018-05-11**
 - Spring Remoting: Http/invoker, Hessian
 
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/03.%20Spring%20Remoting.pdf) 
 
 - Mensajería asincrónica: Introducción 
 
-### **2018-04-15**
+### **2018-05-15**
 - Revisión trabajo HTTP Invoker
 - Revisión Configuración web
 
-### **2018-04-18**
+### **2018-05-18**
 - Mensajeria asincrónica
 
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Contenedores-Spring/04.%20JMS.pdf) 
@@ -61,4 +61,26 @@
 - Servicios REST: Introducción 
 
 
+### **2018-05-22**
+- Servicios REST 
+
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/REST/01.%20introduccion.pdf) 
+
+### **2018-05-25**
+- ********** FERIADO
+
+### **2018-05-29, 2018-06-01**
+- ********** SEMANA DE EXAMENES
+
+### **2018-06-05**
+- Examen primer hemisemestre
+ 
+### **2018-06-08**
+- Revisión exámenes, entrega notas
+
+### **2018-05-22**
+- Servicios REST: HTTP Status Codes
+- JAX-RS: Introducción
+
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/REST/01.%20introduccion.pdf) 
 
