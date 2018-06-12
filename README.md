@@ -78,9 +78,11 @@
 ### **2018-06-08**
 - Revisión exámenes, entrega notas
 
-### **2018-05-22**
+### **2018-06-12**
 - Servicios REST: HTTP Status Codes
 - JAX-RS: Introducción
 
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/REST/01.%20introduccion.pdf) 
+
+
 
