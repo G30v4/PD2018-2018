@@ -71,6 +71,10 @@
 
 ### **2018-05-29, 2018-06-01**
 - ********** SEMANA DE EXAMENES
+- Prueba primer hemi-semestre
+
+### **2018-06-01**
+- ********** SEMANA DE EXAMENES
 
 ## Clases dictadas Segundo Hemisemestre
 
@@ -86,5 +90,9 @@
 
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/REST/01.%20introduccion.pdf) 
 
+### **2018-06-15**
+- Servicios REST: JAX-RS
+
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/REST/02.%20JAX-RS.pdf) 
 
 
