@@ -95,4 +95,25 @@
 
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/REST/02.%20JAX-RS.pdf) 
 
+### **2018-06-19**
+- Laboratorio: servicios REST con CXF, revisión deber
+
+### **2018-06-22**
+- Microservicios: introducción
+
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Microservicios/01.%20Microservices.pdf) 
+
+### **2018-06-26**
+- Características de los microservicios
+
+### **2018-06-29**
+- Características de los microservicios, frameworks
+
+### **2018-07-03**
+- Microservicios: patrones para construcción
+- 
+[Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Microservicios/02.%20MicroservicesFuncionalidad.pdf) 
+
+### **2018-07-06**
+- Cloud, Spring Cloud
 
