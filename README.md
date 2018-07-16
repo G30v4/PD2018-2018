@@ -111,7 +111,7 @@
 
 ### **2018-07-03**
 - Microservicios: patrones para construcción
-- 
+
 [Material de la clase disponible](https://github.com/jsalvador2k14/PD2018-2018/blob/master/documentacion/Microservicios/02.%20MicroservicesFuncionalidad.pdf) 
 
 ### **2018-07-06**
