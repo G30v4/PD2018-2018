@@ -15,8 +15,18 @@ public class NotificaionSingerListener {
 		
 		System.out.println("Notificacion de refresco de cache recibida: <" + obj + ">");
 		
+		if( obj==null ) 
+		{
+			// viene del web
+			cache.reset( );
+		}
+		else
+		{
+			cache.agregar( obj.getId(), obj );
+		}
+		
 		// volver a cargar todos los datos
-		cache.reset( );
+		//cache.reset( );
 		
 		// agregar el objeto agregado
 		// cache.agregar( obj.getId(), obj );
